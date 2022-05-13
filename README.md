@@ -1,5 +1,7 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+# Desafio de Projeto sobre Git/GitHub da DIO :computer:
+**Repositório criado para o Desafio de Projeto**:man_student:
 
-## Links úteis
-[Sintaxe Básica Markdown]("https://www.markdownguide.org/basic-syntax/)
+Neste repositório irá conter todas as anotações feitas por mim ao longo do bootcamp:
+
+Spread FullStack Developer:page_with_curl:
+
