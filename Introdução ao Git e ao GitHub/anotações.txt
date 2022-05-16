@@ -1,40 +1,48 @@
-# 						O que é internet?  #
+# 	Termos Chave
 
-			## 				Introdução ao Tema ##
+* Download/Uploud
+* navegador/browser
+* Banda Larga
+* Cache
+* Crack
+* E-mail
+* Emoticons/emoji
+* Gif/jpg/png
+* Host
+* HTML
+* HTTP
+* Ícone
+* Link
+* Login/Logon
+* Logout/logoff
+* Mp3
+* Multimídia
+* Nick
+* Online/Offline
+* Pixel
+* Spam
+* URL
+* Vírus
+* Backup
+* Blog
+* (Cyber) Bullying
+* 3G/4G/5G
+* Cookies
+* Firewall
+* Hacker
+* IP
+* Keylogger
+* Phishing
+* Click Bait
+* Fake News
+* Podcast
+* Vlog
+* Pop-up
+* Youtuber
 
-														### 			História ###
 
-- 1960 - Eua. Arpanet. Departamento de Defesa. Guerra Fria. interligar laboratórios. Primeiro E-mail.
 
-- 1982 - Universidades. Holanda, Dinamarca e Suécia.
+P: Você conhece algum termo que não foi abordado aqui? Alguma gíria, alguma palavra, expressão ou sigla utilizada na internet, nos bate-papos, em jogos online?
 
-- 1987 - Liberado o uso comercial nos EUA.
+R: Sim. Noob, LMFAO, LOL, Tiltar.
 
-- 1992 - CERN cria a World Wide Web. Dados acessíveis a qualquer pessoa que tivesse acesso a internet.
-
-  ​		No Brasil:
-
-  - 1988 - FAPESP, UFRJ, LNCC.
-  - 1994 - Uso comercial. EMBRATEL.
-  - Conexão discada.
-  - 2000 - Banda Larga.
-
-  
-
-  P: Qual foi o primeiro domínio criado?
-
-  ​	R: symbolics.com
-
-  P: E o primeiro blog?
-
-  ​	R: Open diary
-
-  P:Qual foi a primeira compra feita pela internet?
-
-  ​	R: Um CD de Sting (Ten Summoner's Tale)
-
-  P:Qual o site mais antigo em atividade?
-
-  ​	R: symbolics.com
-
-  
